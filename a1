@@ -1,3 +1,1 @@
-adfasvdsv
-
-git commit --allow-empty -m "Test SSH signing with YubiKey"
+git commit --allow-empty -m "FIDO2 rules"
